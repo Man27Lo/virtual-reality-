@@ -1,5 +1,4 @@
 # virtual-reality-
-Final project for class
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -59,6 +58,8 @@ Final project for class
     <img src="C:\School\ComSci\meta quest 3.jpeg" alt="Meta Quest 3" width="250" height="250">
     <p>Throughout the years Virtual Reality has continued to outdo itself with new features and applications. Currently the Meta Quest 3 is the latest in wearable VR headset and has proven excellent from advanced gamers to the average user. I cannot wait to see what the generation of VR brings.</p>
 </div>
-
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script> 
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script> 
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> 
 </body>
 </html>
